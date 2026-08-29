@@ -12,4 +12,9 @@ export default defineConfig({
     // nitro/vite builds from this
     server: { entry: "server" },
   },
+  // This site deploys to Netlify (not the Lovable/Cloudflare default), so the
+  // production build must target Netlify Functions instead of a Cloudflare Worker.
+  nitro: {
+    preset: "netlify",
+  },
 });
