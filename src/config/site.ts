@@ -5,9 +5,9 @@ export const site = {
     "A locally operated residential land and property development in Odisha. We show you the actual location, share the property details we have, and talk to you directly — before you decide anything.",
 
   contact: {
-    whatsappNumber: "916371272745",
-    whatsappLabel: "WhatsApp: +91 63712 72745",
-    phone: "+91 63712 72745",
+    whatsappNumber: "917978936593",
+    whatsappLabel: "WhatsApp: +91 79789 36593",
+    phone: "+91 79789 36593",
     officeAddress: "Sri Gopal Bihar project office — visits by appointment",
     locality: "Odisha, India",
     mapUrl: "",
